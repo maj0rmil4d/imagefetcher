@@ -11,3 +11,10 @@ dead simple docker registery image fetcher ~!~
 
  
 bash fetchimage.sh xyz.zyz.xya.asv
+
+
+todo: 
+
+- auto detect if its http/https
+- set default port + get port from input
+- make it more cool ~!~
